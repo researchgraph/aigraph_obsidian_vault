@@ -1,0 +1,4 @@
+
+#list #criteria #time_complexity #scalability #CURE #sensitivity
+
+The paper roughly introduce a wide range of clustering algorithms, evaluation metrics and applications. Nothing new but only a full comprehensive study on clustering. It presents quite lot of clustering models (including some state-of-art variant of classical models) and also compare their adavatage and disadvantages, including complexity, scalability, suitability of high dimensional data and sensitive of noise/outlier, which spirits us when choosing a model. For large data sets, the paper recommends CURE, which has linear complexity and high scalability. Lot of evaluation metrics are also provided, but most of them are provided only formula without intuitive details, unfriendly to beginner. None experiments are provided.
