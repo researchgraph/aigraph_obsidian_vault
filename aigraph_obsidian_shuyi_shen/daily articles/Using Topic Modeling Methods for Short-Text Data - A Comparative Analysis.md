@@ -1,0 +1,9 @@
+[Frontiers | Using Topic Modeling Methods for Short-Text Data: A Comparative Analysis (frontiersin.org)](https://www.frontiersin.org/articles/10.3389/frai.2020.00042/full)
+
+#TopicModeling #LDA #NMF  #Short-Text 
+
+### Topic Modeling Methods
+
+- LSA: Distributional hypotheses make up the theoretical foundation of the LSA method, which states terms with similar meaning are closer in terms of their contextual usage, assuming that words that are near in their meaning show in the related parts of texts. Also, it analyzes large amounts of raw text into words and separate them into meaningful sentences or paragraphs. LSA considers both the similarity terms of text and related terms to generate more insights into the topic. Besides, the LSA model can generate a vector-based representation for texts which aids the grouping of related words.
+- LDA is a probabilistic model. Corpus is organized as a random mixture of latent topics in the LDA model, and the topic refers to a word distribution. Also, LDA is a generative unsupervised statistical algorithm for extracting thematic information (topics) of a collection of documents within the Bayesian statistical paradigm. The LDA model assumes that each document is made up of various topics, where each topic is a probability distribution over words. A significant advantage of using the LDA model is that topics can be inferred from a given collection without input from any prior knowledge.
+- NMF is an unsupervised matrix factorization (linear algebraic) method that is able to perform both dimension reduction and clustering simultaneously. The NMF model can extract relevant information about topics without any previous insight into the original data. NMF provides good results in several tasks such as image processing, text analysis, and transcription processes. In addition, it can handle the decomposition of non-understandable data like videos.

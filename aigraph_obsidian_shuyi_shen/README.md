@@ -1,0 +1,3 @@
+# aigraph_notes_shenshuyi
+
+This vault is a compilation of papers or articles I have read, generally in AI topic. In each note I summarize or extract the key points which are the most worth reading part of the article. In the folder 'daily articles', topics are diverse, from general concept to amazing application of AI, from NLP to LLM... arousing interests and widening your field of vision. Papers in folder 'articles of comparison' have a consistent purpose, which is to compare different clustering algorithm, providing convenience for practitioners and researchers to choose appropriate clustering algorithms.

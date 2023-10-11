@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "2cd83e2e14b81923",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f4cab0cd36e9900",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "526ed30b8973b2b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily articles/The impact of preprocessing on text classification.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b891742110ac19d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily articles/Density-Based Clustering -  DBSCAN vs. HDBSCAN.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4d91e2266261689d",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed59d0ea7d68908c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db23f54007d33b28",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "583297f5a0f703e3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#TopicModeling",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d77a79219c763b82",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5bcce2ef15d7c610",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7dabfcfc2364ec6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd5ed82a68cb2dcc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "daily articles/Density-Based Clustering -  DBSCAN vs. HDBSCAN.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "29cbc068ea88d1ec",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "daily articles/Density-Based Clustering -  DBSCAN vs. HDBSCAN.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3c1ae7abdc187b45",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0cf6e7d0db80cd77",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "daily articles/Density-Based Clustering -  DBSCAN vs. HDBSCAN.md"
+              }
+            }
+          },
+          {
+            "id": "4d241d35ebcbba6a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b891742110ac19d2",
+  "lastOpenFiles": [
+    "daily articles/The impact of preprocessing on text classification.md",
+    "daily articles/Short Text Clustering Algorithms, Application and Challenges - A Survey.md",
+    "daily articles/Probabilistic Topic Models.md",
+    "daily articles/Natural language processing - state of the art, current trends and challenges.md",
+    "daily articles/LLaMA - Open and Efficient Foundation Language Models.md",
+    "daily articles/Llama 2.md",
+    "daily articles/Improving the Performance of HDBSCAN on Short Text Clustering by Using Word Embedding and UMAP.md",
+    "daily articles/Improving NMF clustering by leveraging contextual relationships among words.md",
+    "daily articles/How to Fine-Tune BERT for Text Classification.md",
+    "daily articles/Dynamic Topic Models.md",
+    "daily articles/Density-Based Clustering -  DBSCAN vs. HDBSCAN.md",
+    "daily articles/CLUSTERLLM - Large Language Models as a Guide for Text Clustering.md",
+    "daily articles/BERTopic - Neural topic modeling with a class-based TF-IDF procedure.md",
+    "daily articles/AI’s invisible hand on daily life.md",
+    "daily articles/A Survey of Text Similarity Approaches.md",
+    "daily articles/A heuristic approach to determine an appropriate number of topics in topic modeling.md",
+    "daily articles/7 Awesome and Free AI Tools You Should Know.md",
+    "daily articles/4 Types of Classification Tasks in Machine Learning.md",
+    "articles of comparison/The Best Clustering Algorithms in Data Mining.md",
+    "articles of comparison/Text Clustering Algorithms - A Review.md",
+    "articles of comparison/Clustering Rules - A Comparison of Partitioning and Hierarchical Clustering Algorithms.md",
+    "articles of comparison/A Survey on Clustering Techniques for Big Data Mining.md",
+    "articles of comparison/A comprehensive survey of clustering algorithms - State-of-the-art machine learning applications, taxonomy, challenges, and future research prospects.md",
+    "articles of comparison/A Comprehensive Survey of Clustering Algorithms.md",
+    "daily articles/What is a large language model (LLM).md",
+    "daily articles/Using Topic Modeling Methods for Short-Text Data - A Comparative Analysis.md",
+    "images/a24765bb1854c30424c75baa26ddef3.png",
+    "images/e2c5d96f3dc03379d612ecf6228d108.png",
+    "images/e09644950bb15ead6e8b9c93ba475e0.png",
+    "images/70172c3004be6012f346a19a7bb6d05.png",
+    "images/501bef75c85692ea55866f7a7835745.png",
+    "images/f876629abde56d3e311c311f18b0f33.png",
+    "images/0e5d9e0c704f528b881c0f017e6eaef.png",
+    "images/6e7613594bf43617c98dd712d5c7f5e.png",
+    "LICENSE",
+    "images/11042_2022_13428_Fig3_HTML.webp",
+    "images",
+    "daily articles",
+    "articles of comparison",
+    "images/无标题.png",
+    "Untitled.canvas"
+  ]
+}

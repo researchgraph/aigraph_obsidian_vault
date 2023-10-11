@@ -1,0 +1,7 @@
+[Probabilistic Topic Models](extension://idghocbbahafpfhjnfhpbfbmpegphmmp/assets/pdf/web/viewer.html?file=https%3A%2F%2Fwww.cs.columbia.edu%2F~blei%2Fpapers%2FBlei2012.pdf)
+
+#TopicModeling #LDA 
+
+### What are Probabilistic topic models and How do they work?
+Probabilistic topic models, such as Latent Dirichlet Allocation (LDA), are a suite of algorithms that aim to discover and annotate large archives of documents with thematic information. They are statistical methods that analyze the words of the original texts to discover the themes that run through them, how those themes are connected to each other, and how they change over time. In generative probabilistic modeling, we treat our data as arising from a generative process that includes hidden variables. This generative process defines a joint probability distribution over both the observed and hidden random variables. We perform data analysis by using that joint distribution to compute the conditional distribution of the hidden variables given the observed data.
+[[Using Topic Modeling Methods for Short-Text Data - A Comparative Analysis|LDA]] is a generative probabilistic model that assumes each document is a mixture of a few topics, and each topic is a distribution over words.
