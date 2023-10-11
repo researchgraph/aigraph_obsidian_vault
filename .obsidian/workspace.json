@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "e2b4c14edd150531",
+    "type": "split",
+    "children": [
+      {
+        "id": "dcd504e5b3e69a07",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f75ca77424277ba",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3b3ae594cd5caa17",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf24b7978d5fb54b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8bc6e12c00fe9070",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ad8c6af5d18c0ebc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7bd4653d6c17a044",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d5716a187c0697c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9f109884ece69c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9733a48e097893f1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eaacf53cf4e189c6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d06de258e7b283cf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1d9418b16233aff5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6f75ca77424277ba",
+  "lastOpenFiles": [
+    "aigraph_obsidian_shengyuan_cao/Review of Papers/A Comprehensive Comparison Study of Document Clustering for a Biomedical Digital Library MEDLINE.md",
+    "aigraph_obsidian_shengyuan_cao/Review of Papers/A Brief Survey of Text Mining- Classification, Clustering and Extraction Techniques.md",
+    "aigraph_obsidian_shengyuan_cao/Tweet articles/Which are the best clustering metrics.md",
+    "aigraph_obsidian_shengyuan_cao/Tweet articles/What is NLP.md",
+    "aigraph_obsidian_shengyuan_cao/Tweet articles/What Is Topic Modeling - A Beginner's Guide.md",
+    "aigraph_obsidian_shengyuan_cao/Tweet articles/Unsupervised Consensus Clustering.md",
+    "aigraph_obsidian_shengyuan_cao/Tweet articles/What is a LLM.md",
+    "aigraph_obsidian_shengyuan_cao/Tweet articles/What Is a Large Language Model (LLM) Meaning, Types, Working, and Examples.md",
+    "aigraph_obsidian_shengyuan_cao/Tweet articles/Using Large Language Models to Automate Category and Trend Analysis of Scientific Articles - An Application in Ophthalmology.md",
+    "aigraph_obsidian_shengyuan_cao/Tweet articles/Understanding Word N-grams and N-gram Probability in Natural Language Processing.md",
+    "aigraph_obsidian_shengyuan_cao/Tweet articles/Stanza - A Python Natural Language Processing Toolkit for Many Human Languages.md",
+    "aigraph_obsidian_shengyuan_cao/Tweet articles/TrafficSafetyGPT - Tuning a Pre-trained Large Language Model to a Domain-Specific Expert in Transportation Safety.md",
+    "aigraph_obsidian_shengyuan_cao/Tweet articles/Topic Modelling using ChatGPT API.md",
+    "aigraph_obsidian_shengyuan_cao/Tweet articles/Topic Modeling in Python - Latent Dirichlet Allocation (LDA).md",
+    "aigraph_obsidian_shengyuan_cao/Tweet articles/The impact of preprocessing on text classification.md",
+    "aigraph_obsidian_shengyuan_cao/Tweet articles/The Language Of AI - How Humans Communicate With LLMs.md",
+    "aigraph_obsidian_shengyuan_cao/Tweet articles/The Building Blocks of Generative AI.md",
+    "aigraph_obsidian_shengyuan_cao/Tweet articles/The Impacts of Robotics, Artificial Intelligence On Business and Economics.md",
+    "aigraph_obsidian_shengyuan_cao/Tweet articles/The Design of Everyday (AI) Things.md",
+    "aigraph_obsidian_shengyuan_cao/Tweet articles/Normalized Approach to Find Optimal Number of Topics in Latent Dirichlet Allocation (LDA).md",
+    "aigraph_obsidian_shengyuan_cao/Tweet articles/Short Text Topic Modeling Techniques, Applications, and Performance - A Survey.md",
+    "aigraph_obsidian_shengyuan_cao/Tweet articles/Nonnegative Matrix Factorization for Interactive Topic Modeling and Document Clustering.md",
+    "aigraph_obsidian_shengyuan_cao/Tweet articles/Short Text Clustering Algorithms, Application and Challenges - A Survey.md",
+    "aigraph_obsidian_shengyuan_cao/Tweet articles/NMF — A visual explainer and Python Implementation.md",
+    "aigraph_obsidian_shengyuan_cao/Tweet articles/Meta’s Next AI Attack on OpenAI - Free Code-Generating Software.md",
+    "aigraph_obsidian_shengyuan_cao/Tweet articles/Getting started with Text Preprocessing.md",
+    "aigraph_obsidian_shengyuan_cao/Tweet articles",
+    "aigraph_obsidian_shengyuan_cao/Review of Papers",
+    "aigraph_obsidian_shengyuan_cao/Comparison/Pre-processing",
+    "aigraph_obsidian_shengyuan_cao/Comparison",
+    "aigraph_obsidian_shengyuan_cao/Pasted image 20230904123805.png",
+    "aigraph_obsidian_shengyuan_cao/aigraph_Shengyuan/Comparison/Pre-processing",
+    "aigraph_obsidian_shengyuan_cao/aigraph_Shengyuan/Tweet articles",
+    "aigraph_obsidian_shengyuan_cao/aigraph_Shengyuan/Review of Papers",
+    "aigraph_obsidian_shengyuan_cao/aigraph_Shengyuan/Pasted image 20230904123805.png",
+    "aigraph_obsidian_shengyuan_cao/aigraph_Shengyuan/Comparison",
+    "aigraph_obsidian_shengyuan_cao/LICENSE",
+    "aigraph_obsidian_shengyuan_cao/aigraph_Shengyuan"
+  ]
+}
