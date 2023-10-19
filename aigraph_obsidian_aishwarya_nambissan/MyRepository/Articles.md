@@ -35,5 +35,8 @@
 [[Quick and Dirty Data Analysis with Pandas]]
 [[Deep Feature-Based Text Clustering and its Explanation]]
 [[Understanding the Capabilities, Limitations, and Societal Impact of Large Language Models]]
+[[Mastering Customer Segmentation with LLM]]
+[[5 Generative AI Use Cases Companies Can Implement Today]]
+[[Linear Discriminant Analysis for Dimensionality Reduction in Python]]
 
 

@@ -1,0 +1,11 @@
+https://towardsdatascience.com/5-generative-ai-use-cases-companies-can-implement-today-f458707bfbbe
+
+1. **Build more efficient workflows for knowledge workers** - Businesses are recognizing the usefulness of utilizing LLMs to comprehend and derive valuable information from unorganized data. They are actively engaged in tasks such as condensing, examining, searching, and uncovering important insights from vast volumes of internal data.
+	1. Legal firms use AI powered systems to automate the monitoring system which checks that clients are up-to-date with compliance, to review large volumes of documents to identify potential risks, to draft and review standard documents like wills and contracts, to help in research by identifying, analyzing and summarizing important information from case law, journals etc
+	2. Financial services - To analyze, summarize and extract insights from documents like annual reports, insurance contracts etc
+	3. Sales team - For writing first drafts of mails, blogs etc, for analyzing sales interactions, for summarizing interactions from calls and meetings
+
+2. **Automate engineering and data processes** - To automatically generate chunks of code, debug and rectify errors, to generate synthetic data that mirrors real world data so that engineers can test models without worrying about privacy concerns, to readily update legacy software from languages like COBOL to modern ones
+3. **Democratize data with the rest of your company** - To increase access to data for non-technical consumers
+4. **Sales customer support** - By incorporating semantic search into basic chatbots and workflows, data teams can enable Customer Service teams to access information, create responses, and resolve requests much more quickly.
+5. **Support translation and language services** - Generative AI makes it possible to automate near-instantaneous translations and language support across organizations, which spend nearly $60 billion annually on language services — but only translate a fraction of the content they produce.

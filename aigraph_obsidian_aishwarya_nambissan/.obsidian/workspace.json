@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "0a954311395987cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b5539ad752659a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "008aad6cb982fdde",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "77aea691a6c7db16",
+    "type": "split",
+    "children": [
+      {
+        "id": "d35aaf07f382a678",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a7facb3a44ace74",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e478e806b7e2f42f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4f0f7803042b1e21",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4726053ffb98cf42",
+    "type": "split",
+    "children": [
+      {
+        "id": "de46aac6f3b56f65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c39d0b4d395d492c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3d5a3585dc7ddf2f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c0dccf7c83d3f76c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fd8810c86b54b5b0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "89e6421a1bf0f8bd",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "837b7c1aea48a239",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7a7facb3a44ace74",
+  "lastOpenFiles": [
+    "aigraph_obsidian_aishwarya_nambissan/README.md",
+    "aigraph_obsidian_aishwarya_nambissan/LICENSE",
+    "aigraph_obsidian_aishwarya_nambissan",
+    "Obsidian_RGF",
+    "README.md",
+    "MyRepository/Large Language Models.md",
+    "MyRepository/Understanding the Capabilities, Limitations, and Societal Impact of Large Language Models.md",
+    "MyRepository/Understanding the concept of Hierarchical clustering Technique.md",
+    "MyRepository/Articles.md",
+    "Untitled.md",
+    "Extras/Clustering Algorithms.md",
+    "MyRepository/Deep Feature-Based Text Clustering and its Explanation.md",
+    "MyRepository/Quick and Dirty Data Analysis with Pandas.md",
+    "MyRepository/Clustering.md",
+    "MyRepository/Artificial intelligence in business- State of the art and future research agenda.md",
+    "MyRepository/Artificial Intelligence.md",
+    "MyRepository/Advanced Techniques for Research with ChatGPT.md",
+    "MyRepository/K-means clustering.md",
+    "MyRepository/10 Clustering Algorithms.md",
+    "MyRepository/Unsupervised Text Classification with Topic Models and Good Old Human Reasoning.md",
+    "MyRepository/Normalized Approach to Find Optimal Number of Topics in Latent Dirichlet Allocation (LDA).md",
+    "MyRepository/Machine learning and deep learning.md",
+    "MyRepository/Large Language Models Enable Few-Shot Clustering.md",
+    "MyRepository/How to Use LLMs to Build Better Clustering Models.md",
+    "MyRepository/Google Bard versus ChatGPT.md",
+    "MyRepository/Discovering Topic Representative Terms for Short Text Clustering.md",
+    "MyRepository/CLUSTERLLM -  Large Language Models as a Guide for Text Clustering.md",
+    "MyRepository/Classification.md",
+    "MyRepository/Bag of Tricks for Efficient Text Classification.md",
+    "Extras",
+    "MyRepository/Pasted image 20230907212004.png",
+    "MyRepository/Pasted image 20230912174355.png",
+    "MyRepository/Pasted image 20230907212014.png",
+    "MyRepository",
+    "Test",
+    "New folder"
+  ]
+}
