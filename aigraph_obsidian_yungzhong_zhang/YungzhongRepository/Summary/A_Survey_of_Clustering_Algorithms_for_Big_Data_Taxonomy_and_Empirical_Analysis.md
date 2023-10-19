@@ -1,6 +1,0 @@
-
-#list #STING #BIRCH #EM 
-
-https://ieeexplore.ieee.org/document/6832486
-
-The paper provided a comprehensive study of the clustering algorithms and conducted extensive experiments on most representative algorithms, on lot of datasets. It provideds lot of details of the algorithms listed including ability of handing high dimensionality, ability of handling noisy data, cluster types(convex or not), complexity, the number of parameters, which help us when choosing model according to our scenario. Considering we are going to deal with millitions of data, algorithms with linear complexity like K-modes, PCM, BIRCH, STING might be good choice. The paper do experiments on FCM, BIRCH, DENCLUE, OptiGird and EM, comparing them on external validity, internal validity, , stability and rumtime. Among them, DEMCLUE and OptiGrid outperformed. But none of the selected models are good at stability, which measure the influence of random component or interrupt. DBSCAN/HDBSCAN might be able to deal with such issue.

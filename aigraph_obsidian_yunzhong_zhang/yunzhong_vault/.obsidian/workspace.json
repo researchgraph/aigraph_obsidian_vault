@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "dbf9f8b05bf3b5ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "0cf89149168d9983",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18f370031138e8c7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6beef1dc6ce8b604",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e852c0a9b488a8a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0445256cc1fae746",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "17a00c9bcf444022",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cd47ca0542a0c1b7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "79e7481f85e4873b",
+    "type": "split",
+    "children": [
+      {
+        "id": "0db19601d43db4b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0bbc1d11069c363b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a050108c2bad02df",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "81852a9a8283c484",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "854d777ebe2617b8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0445256cc1fae746",
+  "lastOpenFiles": [
+    "Summary/Summary of A review of clustering techniques and developments.md",
+    "Summary/Comparative study of Data Mining Clustering algorithms.md",
+    "Summary/Clustering Techniques and the Similarity Measures used in Clustering A Survey.md",
+    "Summary/Clustering More than Two Million Biomedical Publications - Comparing the Accuracies of Nine Text-Based Similarity Approaches.md",
+    "Summary/An Experimental Comparison of Several Clustering and Initialization Methods.md",
+    "Summary/A_Survey_of_Clustering_Algorithms_for_Big_Data_Taxonomy_and_Empirical_Analysis.md",
+    "daily twitter/The Practical Side of Navigating AI Risks.md",
+    "daily twitter/Redefining Conversational AI with Large Language Models.md",
+    "daily twitter/NLP.md",
+    "daily twitter/Mastering BERT A Comprehensive Guide from Beginner to Advanced in Natural Language Processing.md",
+    "daily twitter/LLM.md",
+    "daily twitter/Do Large Language Models Know What Humans Know?.md",
+    "daily twitter/DBSCAN.md",
+    "daily twitter/BERT.md",
+    "daily twitter/A Comparison of Common Document Clustering Techniques.md",
+    "daily twitter/A Comparative Analysis of LLMs like BERT, BART, and T5.md",
+    "daily twitter/12 Practical Large Language Model (LLM) Applications.md",
+    "daily twitter/When Large Language Models Meet Citation  A Survey.md",
+    "Summary",
+    "daily twitter"
+  ]
+}

@@ -5,3 +5,4 @@ This post details how to apply three core UX concepts to generative AI products:
 - Treat chatbot interfaces skeptically
 #UI/UX #GenerativeAI #Application #Design
 https://towardsdatascience.com/the-design-of-everyday-ai-things-26516d928566
+![[Pasted image 20231019173643.png]]
