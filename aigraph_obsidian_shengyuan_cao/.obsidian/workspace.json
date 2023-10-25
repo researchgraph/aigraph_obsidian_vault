@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comparison/Pre-processing/A Comprehensive Comparison on current clustering methods.md",
+                "file": "Tweet articles/Which are the best clustering metrics.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Aishwarya's part\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Comparison/Pre-processing/A Comprehensive Comparison on current clustering methods.md",
+                "file": "Tweet articles/Which are the best clustering metrics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Comparison/Pre-processing/A Comprehensive Comparison on current clustering methods.md",
+                "file": "Tweet articles/Which are the best clustering metrics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Comparison/Pre-processing/A Comprehensive Comparison on current clustering methods.md"
+                "file": "Tweet articles/Which are the best clustering metrics.md"
+              }
+            }
+          },
+          {
+            "id": "f30adf5b6338be07",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -148,33 +158,33 @@
   },
   "active": "477010150a7005f8",
   "lastOpenFiles": [
-    "Comparison/Pre-processing/Aishwarya's part.md",
-    "Comparison/Pre-processing/Shengyuan's part.md",
-    "Comparison/Pre-processing/Shuyi's part.md",
-    "Comparison/Pre-processing/A Comprehensive Comparison on current clustering methods.md",
-    "Comparison/A Comprehensive Comparison Study of Document Clustering for a Biomedical Digital Library MEDLINE.md",
-    "Tweet articles/A Very Gentle Introduction to Large Language Models without the Hype.md",
-    "Comparison/Pre-processing",
-    "Tweet articles/The Building Blocks of Generative AI.md",
-    "Tweet articles/Data-Juicer - A One-Stop Data Processing System for Large Language Models.md",
-    "Tweet articles/70 billion parameter LLaMA2 model training accelerated by 195% with best foundation model practice upgraded.md",
-    "Tweet articles/Using Large Language Models to Automate Category and Trend Analysis of Scientific Articles - An Application in Ophthalmology.md",
     "Tweet articles/What Is Topic Modeling - A Beginner's Guide.md",
-    "Tweet articles/Which are the best clustering metrics.md",
     "Tweet articles/What is NLP.md",
     "Tweet articles/What is a LLM.md",
-    "Tweet articles/TrafficSafetyGPT - Tuning a Pre-trained Large Language Model to a Domain-Specific Expert in Transportation Safety.md",
+    "Tweet articles/What Is a Large Language Model (LLM) Meaning, Types, Working, and Examples.md",
+    "Tweet articles/Using Large Language Models to Automate Category and Trend Analysis of Scientific Articles - An Application in Ophthalmology.md",
+    "Tweet articles/Unsupervised Consensus Clustering.md",
     "Tweet articles/Understanding Word N-grams and N-gram Probability in Natural Language Processing.md",
+    "Tweet articles/TrafficSafetyGPT - Tuning a Pre-trained Large Language Model to a Domain-Specific Expert in Transportation Safety.md",
+    "Tweet articles/Topic Modelling using ChatGPT API.md",
     "Tweet articles/Topic Modeling in Python - Latent Dirichlet Allocation (LDA).md",
+    "Tweet articles/The Language Of AI - How Humans Communicate With LLMs.md",
+    "Tweet articles/The Impacts of Robotics, Artificial Intelligence On Business and Economics.md",
     "Tweet articles/The impact of preprocessing on text classification.md",
+    "Tweet articles/The Design of Everyday (AI) Things.md",
+    "Tweet articles/The Building Blocks of Generative AI.md",
     "Tweet articles/Stanza - A Python Natural Language Processing Toolkit for Many Human Languages.md",
     "Tweet articles/Short Text Topic Modeling Techniques, Applications, and Performance - A Survey.md",
-    "Tweet articles/Nonnegative Matrix Factorization for Interactive Topic Modeling and Document Clustering.md",
     "Tweet articles/Short Text Clustering Algorithms, Application and Challenges - A Survey.md",
     "Tweet articles/Normalized Approach to Find Optimal Number of Topics in Latent Dirichlet Allocation (LDA).md",
+    "Tweet articles/Nonnegative Matrix Factorization for Interactive Topic Modeling and Document Clustering.md",
     "Tweet articles/NMF — A visual explainer and Python Implementation.md",
     "Tweet articles/Meta’s Next AI Attack on OpenAI - Free Code-Generating Software.md",
     "Tweet articles/LLaMA - Open and Efficient Foundation Language Models.md",
+    "Tweet articles/Leveraging Artificial Intelligence in Business - Implications, Applications and Methods.md",
+    "Tweet articles/Is Generative AI Taking Over the World.md",
+    "Tweet articles/Improving NMF clustering by leveraging contextual relationships among words.md",
+    "Comparison/Pre-processing",
     "Tweet articles",
     "Comparison",
     "Pasted image 20230904123805.png",

@@ -1,3 +1,4 @@
+https://levity.ai/blog/what-is-topic-modeling#:~:text=Topic%20modeling%20is%20a%20type,predefined%20tags%20or%20training%20data
+
 Topic modeling is a type of statistical modeling that uses unsupervised ML to identify clusters or groups of similar words within a body of text. LSA and LDA are 2 main methods. Now, introduing Levity, which could help do topic classification rapidly!
 #Topic-Modeling #Introduction 
-https://levity.ai/blog/what-is-topic-modeling#:~:text=Topic%20modeling%20is%20a%20type,predefined%20tags%20or%20training%20data
