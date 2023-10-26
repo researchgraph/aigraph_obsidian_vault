@@ -1,3 +1,4 @@
+https://arxiv.org/abs/1612.08388
 #Metrics #Comparison
 ## Research Objectives
 - **Aim 1**: Perform a systematic comparison of 9 well-known clustering algorithms in R, assuming normally distributed data.

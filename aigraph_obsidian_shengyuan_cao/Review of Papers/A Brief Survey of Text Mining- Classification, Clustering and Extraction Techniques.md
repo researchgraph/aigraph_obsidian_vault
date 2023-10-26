@@ -1,3 +1,4 @@
+https://arxiv.org/abs/1707.02919
 #Metrics #Comparison #Text-Mining 
 ## Research Objectives
 - **Aim 1**: To provide an overview of the fundamental algorithms and techniques used in text mining, particularly in the biomedical domain.
