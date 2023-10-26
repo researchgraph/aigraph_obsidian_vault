@@ -7,6 +7,8 @@ The vault has the following folder structure:
 
 **Articles**: This folder is used for storing summaries of articles or blog posts read.
 
+**Articles - 2**: This folder also contains more summaries of articles or blog posts read.
+
 **Clustering Algorithms Comparison**: This folder is used for storing the analysis after studying  papers that compare different clustering techniques
 
 **Performance-comparison**: This folder is used for storing the findings after comparing the performances of different clustering algorithms and topic modelling techniques implemented by us.
