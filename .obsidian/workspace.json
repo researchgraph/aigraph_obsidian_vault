@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aigraph_obsidian_aishwarya_nambissan/MyRepository/Clustering.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eec5e5d676f0dfe5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "aigraph_obsidian_aishwarya_nambissan/README.md",
+                "file": "Articles - 2/Which are the best clustering metrics.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "aigraph_obsidian_aishwarya_nambissan/README.md",
+                "file": "Articles - 2/Which are the best clustering metrics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "aigraph_obsidian_aishwarya_nambissan/README.md",
+                "file": "Articles - 2/Which are the best clustering metrics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "aigraph_obsidian_aishwarya_nambissan/README.md"
+                "file": "Articles - 2/Which are the best clustering metrics.md"
               }
             }
           }
@@ -159,54 +146,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eec5e5d676f0dfe5",
+  "active": "8885cc4400191e96",
   "lastOpenFiles": [
-    "README.md",
-    "aigraph_obsidian_aishwarya_nambissan/README.md",
-    "aigraph_obsidian_aishwarya_nambissan/MyRepository/Linear Discriminant Analysis for Dimensionality Reduction in Python.md",
-    "aigraph_obsidian_aishwarya_nambissan/MyRepository/Articles.md",
-    "aigraph_obsidian_shengyuan_cao/Tweet articles/Using Large Language Models to Automate Category and Trend Analysis of Scientific Articles - An Application in Ophthalmology.md",
-    "aigraph_obsidian_shengyuan_cao/Tweet articles/What is NLP.md",
-    "aigraph_obsidian_shengyuan_cao/Tweet articles/Which are the best clustering metrics.md",
-    "aigraph_obsidian_shengyuan_cao/Tweet articles/What Is Topic Modeling - A Beginner's Guide.md",
-    "aigraph_obsidian_shengyuan_cao/Tweet articles/What Is a Large Language Model (LLM) Meaning, Types, Working, and Examples.md",
-    "aigraph_obsidian_shengyuan_cao/Tweet articles/What is a LLM.md",
-    "aigraph_obsidian_shengyuan_cao/Tweet articles/Unsupervised Consensus Clustering.md",
-    "aigraph_obsidian_shengyuan_cao/Tweet articles/Topic Modelling using ChatGPT API.md",
-    "aigraph_obsidian_shengyuan_cao/Tweet articles/Understanding Word N-grams and N-gram Probability in Natural Language Processing.md",
-    "aigraph_obsidian_shengyuan_cao/Tweet articles/Getting started with Text Preprocessing.md",
-    "aigraph_obsidian_shengyuan_cao/Tweet articles/TrafficSafetyGPT - Tuning a Pre-trained Large Language Model to a Domain-Specific Expert in Transportation Safety.md",
-    "aigraph_obsidian_shengyuan_cao/Tweet articles/Topic Modeling in Python - Latent Dirichlet Allocation (LDA).md",
-    "aigraph_obsidian_shengyuan_cao/Tweet articles/The Language Of AI - How Humans Communicate With LLMs.md",
-    "aigraph_obsidian_shengyuan_cao/Tweet articles/The Design of Everyday (AI) Things.md",
-    "aigraph_obsidian_shengyuan_cao/Tweet articles/The Impacts of Robotics, Artificial Intelligence On Business and Economics.md",
-    "aigraph_obsidian_shengyuan_cao/Tweet articles/The impact of preprocessing on text classification.md",
-    "aigraph_obsidian_shengyuan_cao/Tweet articles/The Building Blocks of Generative AI.md",
-    "aigraph_obsidian_shengyuan_cao/Tweet articles/Stanza - A Python Natural Language Processing Toolkit for Many Human Languages.md",
-    "aigraph_obsidian_shengyuan_cao/Tweet articles/Short Text Topic Modeling Techniques, Applications, and Performance - A Survey.md",
-    "aigraph_obsidian_shengyuan_cao/Tweet articles/Short Text Clustering Algorithms, Application and Challenges - A Survey.md",
-    "aigraph_obsidian_shengyuan_cao/Tweet articles/Nonnegative Matrix Factorization for Interactive Topic Modeling and Document Clustering.md",
-    "aigraph_obsidian_shengyuan_cao/Tweet articles/Normalized Approach to Find Optimal Number of Topics in Latent Dirichlet Allocation (LDA).md",
-    "aigraph_obsidian_shengyuan_cao/Tweet articles",
-    "aigraph_obsidian_shengyuan_cao/Review of Papers",
-    "aigraph_obsidian_shengyuan_cao/Comparison/Pre-processing",
-    "aigraph_obsidian_shengyuan_cao/Comparison",
-    "aigraph_obsidian_shengyuan_cao/Pasted image 20230904123805.png",
-    "aigraph_obsidian_yunzhong_zhang/result_comparsion_obsidian/NMF/keyword_occurance/non-sense.png",
-    "aigraph_obsidian_yunzhong_zhang/result_comparsion_obsidian/NMF/keyword_occurance/medicine.png",
-    "aigraph_obsidian_yunzhong_zhang/result_comparsion_obsidian/NMF/keyword_occurance/education.png",
-    "aigraph_obsidian_yunzhong_zhang/result_comparsion_obsidian/NMF/keyword_occurance/cyber-security.png",
-    "aigraph_obsidian_yunzhong_zhang/result_comparsion_obsidian/LDA/keywords_occurance/non-sense.png",
-    "aigraph_obsidian_yunzhong_zhang/result_comparsion_obsidian/LDA/keywords_occurance/medical.png",
-    "aigraph_obsidian_yunzhong_zhang/result_comparsion_obsidian/LDA/keywords_occurance/education.png",
-    "aigraph_obsidian_yunzhong_zhang/result_comparsion_obsidian/LDA/keywords_occurance/cyber-security.png",
-    "aigraph_obsidian_yunzhong_zhang/result_comparsion_obsidian/HDBSCAN/keywords_occurance/non-sense.png",
-    "aigraph_obsidian_yunzhong_zhang/result_comparsion_obsidian/NMF/keyword_occurance",
-    "aigraph_obsidian_yunzhong_zhang/result_comparsion_obsidian/LDA/keywords_occurance",
-    "aigraph_obsidian_yunzhong_zhang/result_comparsion_obsidian/HDBSCAN/keywords_occurance",
-    "aigraph_obsidian_yunzhong_zhang/result_comparsion_obsidian/GMM/keywords_occurance",
-    "aigraph_obsidian_yunzhong_zhang/result_comparsion_obsidian/NMF",
-    "aigraph_obsidian_yunzhong_zhang/yunzhong_vault/Summary",
+    "Articles - 2/Which are the best clustering metrics 1.md",
+    "Articles - 2/Which are the best clustering metrics.md",
+    "Articles - 2/What Is Topic Modeling - A Beginner's Guide.md",
+    "Articles - 2/What is NLP.md",
+    "Articles - 2/What is a LLM.md",
+    "Articles - 2/What Is a Large Language Model (LLM) Meaning, Types, Working, and Examples.md",
+    "Articles - 2/Using Large Language Models to Automate Category and Trend Analysis of Scientific Articles - An Application in Ophthalmology.md",
+    "Articles - 2/Unsupervised Consensus Clustering.md",
+    "Articles - 2/Understanding Word N-grams and N-gram Probability in Natural Language Processing.md",
+    "Articles - 2/TrafficSafetyGPT - Tuning a Pre-trained Large Language Model to a Domain-Specific Expert in Transportation Safety.md",
+    "Articles - 2/Topic Modelling using ChatGPT API.md",
+    "Articles - 2/Topic Modeling in Python - Latent Dirichlet Allocation (LDA).md",
+    "Articles - 2/The Language Of AI - How Humans Communicate With LLMs.md",
+    "Articles - 2/The Impacts of Robotics, Artificial Intelligence On Business and Economics.md",
+    "Articles - 2/The impact of preprocessing on text classification.md",
+    "Articles - 2/The Design of Everyday (AI) Things.md",
+    "Articles - 2/The Building Blocks of Generative AI.md",
+    "Articles - 2/Stanza - A Python Natural Language Processing Toolkit for Many Human Languages.md",
+    "Articles - 2/Short Text Topic Modeling Techniques, Applications, and Performance - A Survey.md",
+    "Articles - 2/Short Text Clustering Algorithms, Application and Challenges - A Survey.md",
+    "Articles - 2/Normalized Approach to Find Optimal Number of Topics in Latent Dirichlet Allocation (LDA).md",
+    "Articles - 2/Nonnegative Matrix Factorization for Interactive Topic Modeling and Document Clustering.md",
+    "Articles - 2/NMF — A visual explainer and Python Implementation.md",
+    "Articles - 2/Meta’s Next AI Attack on OpenAI - Free Code-Generating Software.md",
+    "Articles - 2/Leveraging Artificial Intelligence in Business - Implications, Applications and Methods.md",
+    "Articles - 2/Is Generative AI Taking Over the World.md",
+    "Articles/Pasted image 20230904123805.png",
+    "Articles - 2",
+    "aigraph_obsidian_vault-Progress/aigraph_obsidian_shengyuan_cao/Review of Papers",
+    "aigraph_obsidian_vault-Progress/aigraph_obsidian_shengyuan_cao/Comparison/Pre-processing",
+    "aigraph_obsidian_vault-Progress/aigraph_obsidian_shengyuan_cao/Comparison",
+    "Articles/Pasted image 20231019173956.png",
+    "Articles/Pasted image 20231019173941.png",
+    "Articles/Pasted image 20231019173924.png",
+    "Articles/Pasted image 20231019173911.png",
+    "Articles/Pasted image 20231019173838.png",
+    "Articles/Pasted image 20231019173819.png",
+    "Articles/Pasted image 20231019173807.png",
+    "Articles/Pasted image 20231019173755.png",
+    "Articles/Pasted image 20231019173739.png",
+    "aigraph_obsidian_vault-Progress/aigraph_obsidian_shengyuan_cao/LICENSE",
+    "aigraph_obsidian_vault-Progress/aigraph_obsidian_shengyuan_cao",
+    "aigraph_obsidian_vault-Progress/aigraph_obsidian_yunzhong_zhang-main/yunzhong_vault/daily twitter",
+    "aigraph_obsidian_vault-Progress/aigraph_obsidian_yunzhong_zhang-main/yunzhong_vault/Summary",
+    "aigraph_obsidian_vault-Progress/aigraph_obsidian_yunzhong_zhang-main/yunzhong_vault",
+    "Performance-Comparison/50k_result_comparison/images",
     "Untitled.canvas"
   ]
 }
