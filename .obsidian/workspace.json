@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Articles - 2/Which are the best clustering metrics.md",
+                "file": "Pre-Processing/Shengyuan's part.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Articles - 2/Which are the best clustering metrics.md",
+                "file": "Pre-Processing/Shengyuan's part.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Articles - 2/Which are the best clustering metrics.md",
+                "file": "Pre-Processing/Shengyuan's part.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Articles - 2/Which are the best clustering metrics.md"
+                "file": "Pre-Processing/Shengyuan's part.md"
               }
             }
           }
@@ -148,9 +148,12 @@
   },
   "active": "8bc6e12c00fe9070",
   "lastOpenFiles": [
+    "Pre-Processing/Aishwarya's part.md",
+    "Articles/Understanding the concept of Hierarchical clustering Technique 1.md",
+    "Articles/4 Types of Classification Tasks in Machine Learning.md",
+    "Articles/Which are the best clustering metrics.md",
     "aigraph_obsidian_shengyuan_cao",
     "Articles - 2/Which are the best clustering metrics 1.md",
-    "Articles - 2/Which are the best clustering metrics.md",
     "Articles - 2/What Is Topic Modeling - A Beginner's Guide.md",
     "Articles - 2/What is NLP.md",
     "Articles - 2/What is a LLM.md",
@@ -172,8 +175,6 @@
     "Articles - 2/Normalized Approach to Find Optimal Number of Topics in Latent Dirichlet Allocation (LDA).md",
     "Articles - 2/Nonnegative Matrix Factorization for Interactive Topic Modeling and Document Clustering.md",
     "Articles - 2/NMF — A visual explainer and Python Implementation.md",
-    "Articles - 2/Meta’s Next AI Attack on OpenAI - Free Code-Generating Software.md",
-    "Articles - 2/Leveraging Artificial Intelligence in Business - Implications, Applications and Methods.md",
     "Articles/Pasted image 20230904123805.png",
     "Articles - 2",
     "aigraph_obsidian_vault-Progress/aigraph_obsidian_shengyuan_cao/Review of Papers",
@@ -193,7 +194,6 @@
     "aigraph_obsidian_vault-Progress/aigraph_obsidian_yunzhong_zhang-main/yunzhong_vault/daily twitter",
     "aigraph_obsidian_vault-Progress/aigraph_obsidian_yunzhong_zhang-main/yunzhong_vault/Summary",
     "aigraph_obsidian_vault-Progress/aigraph_obsidian_yunzhong_zhang-main/yunzhong_vault",
-    "Performance-Comparison/50k_result_comparison/images",
     "Untitled.canvas"
   ]
 }
